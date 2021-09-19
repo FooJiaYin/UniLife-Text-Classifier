@@ -1,0 +1,7 @@
+
+# Apple
+*.DS_Store
+*.nc
+
+# Pycache
+*.pyc

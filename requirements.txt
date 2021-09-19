@@ -1,0 +1,4 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+pip install 'kashgari>=2.0.2'
+pip install 'tensorflow==2.2'
+pip install tensorflow_addons==0.11.2
