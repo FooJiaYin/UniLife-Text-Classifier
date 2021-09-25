@@ -3,7 +3,7 @@
 
 ## Input
 
-- 請將`.txt`文字檔直接丟入`input`
+- 請將文章文字直接丟入`input`
 
 ## Notebook
 - `model_training.ipynb`: 訓練模型的jupyter notebook (google colab hosted)
@@ -15,4 +15,4 @@
     - `ver 4`: 單一標籤模型， F1 score: 0.91
 
 ## Output
--  並未儲存至檔案。
+-  {title:[category]}
